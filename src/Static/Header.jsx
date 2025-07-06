@@ -11,7 +11,7 @@ import circleImg from "../assets/images/circle.png";
 import pinkbookImg from "../assets/images/pinkbook.png";
 import dollarImg from "../assets/images/dollar.png";
 import HouseImg from "../assets/images/house.png";
-import blogimg from "../assets/images/blog.svg";
+import blogimg from "../assets/images/Blog.svg";
 import reportimg from "../assets/images/Reports.svg";
 import comicimg from "../assets/images/comic.svg";
 import calcimg from "../assets/images/calculator.svg";
